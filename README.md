@@ -6,12 +6,10 @@
 🎓 Tenho experiência acadêmica em **analise de dados**, e atualmente trabalho como **Estagiário de projetos na Pontifícia Universidade Católica do Paraná**.
 
 💡 Possuo conhecimentos em:
-- **Linguagens de Programação**:  Python, Java, JavaScript, PHP.
-- **Desenvolvimento Web**: HTML, CSS.
-- **Banco de Dados**: MySQL (experiência prática), R, SQL.
-- **Ferramentas e Tecnologias**: Power BI, Pacote Office.
-- **Outros**: Redes, Linux, Hardware, Git, GitHub.
-
+- **Linguagens de Programação**:  Python, Java, JavaScript, PHP, C#, C/C++.
+- **Desenvolvimento Web**: HTML, CSS, React, Node.JS.
+- **Banco de Dados**: SQL, R, PostgreSQL, MongoDB.
+- **Ferramentas e Tecnologias**: Power Platform, Power BI, Pacote Office, Git/GitHub.
 
 📚 Atualmente, estou estudando **Hadoop MapReduce, Spark e Spark SQL** para me aprofundar no mundo de **Big Data**.
 
