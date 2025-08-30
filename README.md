@@ -3,7 +3,7 @@
 
 👋 Olá! Meu nome é **Murilo Chandelier Pedrazzani**, sou um entusiasta da tecnologia, sempre em busca de inovações que transformam o mundo digital. Atualmente, estou focado em aprimorar minhas habilidades em **Python, R, SQL** e outras linguagens, buscando oportunidades como **estagiário ou analista de dados júnior**.
 
-🎓 Tenho experiência acadêmica em **analise de dados**, e atualmente trabalho como **Estagiário de projetos na Pontifícia Universidade Católica do Paraná**.
+🎓 Tenho experiência acadêmica em **analise de dados**, e atualmente trabalho como **Estagiário de Hiperautomação no Bradesco**.
 
 💡 Possuo conhecimentos em:
 - **Linguagens de Programação**:  Python, Java, JavaScript, PHP, C#, C/C++.
