@@ -17,7 +17,13 @@ Atualmente, estou estudando **Hadoop MapReduce, Spark e Spark SQL** para me apro
 
 ## Minhas Estatísticas no GitHub
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuriloPedrazzani&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=87CEFA&bg_color=0d1117" alt="Murilo Chandelier Pedrazzani github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPedrazzani&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=MuriloPedrazzani&show_icons=true&hide_border=true&bg_color=0d1117&title_color=87CEFA&text_color=87CEFA&icon_color=87CEFA&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)"/>
+    <img height="195px" src="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=MuriloPedrazzani&show_icons=true&hide_border=true&bg_color=0d1117&title_color=87CEFA&text_color=87CEFA&icon_color=87CEFA&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Murilo" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats-ruddy-five-29.vercel.app/api/top-langs/?username=MuriloPedrazzani&layout=compact&hide_border=true&bg_color=0d1117&title_color=87CEFA&text_color=87CEFA" media="(prefers-color-scheme: dark)"/>
+    <img height="195px" src="https://github-readme-stats-ruddy-five-29.vercel.app/api/top-langs/?username=MuriloPedrazzani&layout=compact&hide_border=true&bg_color=0d1117&title_color=87CEFA&text_color=87CEFA" alt="Linguagens mais usadas por Murilo" />
+  </picture>
 </div>
