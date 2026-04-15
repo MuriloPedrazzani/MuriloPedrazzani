@@ -1,17 +1,15 @@
 
 ## Sobre Mim
 
- Olá! Meu nome é **Murilo Chandelier Pedrazzani**, sou um entusiasta da tecnologia, sempre em busca de inovações que transformam o mundo digital. Atualmente, estou focado em aprimorar minhas habilidades em **Python, R, SQL** e outras linguagens, buscando oportunidades como **estagiário ou analista de dados júnior**.
+ Olá! Meu nome é **Murilo Chandelier Pedrazzani**, sou um entusiasta da tecnologia, sempre em busca de inovações que transformam o mundo digital. Atualmente, estou focado em aprimorar minhas habilidades em **Python, C++, Java** e outras linguagens.
 
-Tenho experiência acadêmica em **analise de dados**, e atualmente trabalho como **Estagiário de Hiperautomação no Bradesco**.
+Tenho experiência acadêmica em **Programação Distribuída** e atualmente trabalho como **Analista Assistente de Hiperautomação no Bradesco**.
 
 Possuo conhecimentos em:
 - **Linguagens de Programação**:  Python, Java, JavaScript, PHP, C#, C/C++.
 - **Desenvolvimento Web**: HTML, CSS, React, Node.JS.
 - **Banco de Dados**: SQL, R, PostgreSQL, MongoDB.
 - **Ferramentas e Tecnologias**: Power Platform, Power BI, Pacote Office, Git/GitHub.
-
-Atualmente, estou estudando **Hadoop MapReduce, Spark e Spark SQL** para me aprofundar no mundo de **Big Data**.
 
 ---
 
