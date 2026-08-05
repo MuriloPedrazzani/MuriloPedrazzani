@@ -108,10 +108,6 @@ Tecnologias que utilizei em contexto acadêmico ou em projetos pontuais. Estão 
 <img height="170" src="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=MuriloPedrazzani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=87CEFA&text_color=C9D1D9&icon_color=87CEFA&rank_icon=github" alt="Estatísticas do GitHub de Murilo Pedrazzani" />
 <img height="170" src="https://github-readme-stats-ruddy-five-29.vercel.app/api/top-langs/?username=MuriloPedrazzani&layout=compact&langs_count=6&hide=assembly,html,css&hide_border=true&border_radius=10&bg_color=0D1117&title_color=87CEFA&text_color=C9D1D9" alt="Linguagens mais utilizadas por Murilo Pedrazzani" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloPedrazzani&bg_color=0D1117&color=87CEFA&line=87CEFA&point=FFFFFF&area=true&area_color=1F4E79&hide_border=true&radius=10" width="98%" alt="Gráfico de atividade de contribuições de Murilo Pedrazzani" />
-
 </div>
 
 <br/>
