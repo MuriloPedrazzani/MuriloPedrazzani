@@ -99,14 +99,8 @@ Tecnologias que utilizei em contexto acadêmico ou em projetos pontuais. Estão 
 
 <div align="center">
 
-<!--
-  Cards fixos em tema escuro (#0D1117 / #87CEFA), sem variante clara.
-  Motivo: o tema do GitHub é independente do prefers-color-scheme do sistema
-  operacional. Quem usa GitHub escuro com Windows claro receberia o card
-  branco. Fixar em escuro garante a identidade visual em 100% dos casos.
--->
-<img height="170" src="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=MuriloPedrazzani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=87CEFA&text_color=C9D1D9&icon_color=87CEFA&rank_icon=github" alt="Estatísticas do GitHub de Murilo Pedrazzani" />
-<img height="170" src="https://github-readme-stats-ruddy-five-29.vercel.app/api/top-langs/?username=MuriloPedrazzani&layout=compact&langs_count=6&hide=assembly,html,css&hide_border=true&border_radius=10&bg_color=0D1117&title_color=87CEFA&text_color=C9D1D9" alt="Linguagens mais utilizadas por Murilo Pedrazzani" />
+<img height="170" src="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=MuriloPedrazzani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=87CEFA&text_color=C9D1D9&icon_color=87CEFA&rank_icon=github&v=2" alt="Estatísticas do GitHub de Murilo Pedrazzani" />
+<img height="170" src="https://github-readme-stats-ruddy-five-29.vercel.app/api/top-langs/?username=MuriloPedrazzani&layout=compact&langs_count=6&hide=assembly,html,css&hide_border=true&border_radius=10&bg_color=0D1117&title_color=87CEFA&text_color=C9D1D9&v=2" alt="Linguagens mais utilizadas por Murilo Pedrazzani" />
 
 </div>
 
